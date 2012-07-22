@@ -14,6 +14,4 @@ doc = Hpricot(open(uri))
   next if word.length <=2
 
   puts word
-
-
 end

@@ -1,0 +1,7 @@
+auto-complte.el dictionary for Processing.
+
+Please move "pde" file in dictionaries folder.
+
+for example
+    ~/.emacs.d/auto-complete/ac-dict/
+
